@@ -9,3 +9,5 @@ This is whatsapp code
 4.Hiding the Last seen
 
 5.Video and audio features
+
+6.Adding the status update
