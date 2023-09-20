@@ -5,3 +5,5 @@ This is whatsapp code
 2.Chat Screen code
 
 3.Last seen code
+
+4.Hiding the Last seen
